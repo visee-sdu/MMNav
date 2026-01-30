@@ -26,4 +26,16 @@ mv -r habitat your-path/habitat-lab
 ```
 
 * Download the prediction-related files and models
+
+## Dataset
+
+Download the MMNav dataset here. It include train/val/test split.
+
+## Evaluating the navigation agent
+
+Evaluate the agent's capability using the `script main.sh`
+
+## Training the refine model
+
+Run `refine.py` to train the refinement model
   
