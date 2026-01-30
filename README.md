@@ -24,3 +24,6 @@ pip install -e .
 ```
 mv -r habitat your-path/habitat-lab
 ```
+
+* Download the prediction-related files and models
+  
