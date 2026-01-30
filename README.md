@@ -1,8 +1,8 @@
 # MMNav
 
 ## Installation
-* Pytorch 2.1.1
-* Python 3.9.18
+* Pytorch 1.10.0
+* Python 3.8.20
 
 ### Installing Dependencies
 * Install habitat-sim
