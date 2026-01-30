@@ -25,12 +25,13 @@ pip install -e .
 mv -r habitat your-path/habitat-lab
 ```
 
-* Download the prediction-related files and models.
+* Download the prediction-related files and models [here](https://huggingface.co/bowen666212/MMNav_model_files).
+
 After unzipping, place the prediction-related files in the root directory, and also place `iter.pth` in the root directory. Place `mask_rcnn_R_101_cat9.pth` in the `nav/agent/utils` directory
 
 ## Dataset
 
-Download the MMNav dataset here. It include train/val/test split.
+Download the MMNav dataset [here](https://huggingface.co/datasets/bowen666212/MMNav). It include train/val/test split.
 
 ## Evaluating the navigation agent
 
