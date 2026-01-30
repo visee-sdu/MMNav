@@ -25,7 +25,8 @@ pip install -e .
 mv -r habitat your-path/habitat-lab
 ```
 
-* Download the prediction-related files and models
+* Download the prediction-related files and models.
+After unzipping, place the prediction-related files in the root directory, and also place `iter.pth` in the root directory. Place `mask_rcnn_R_101_cat9.pth` in the `nav/agent/utils` directory
 
 ## Dataset
 
