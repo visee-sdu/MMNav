@@ -20,7 +20,7 @@ cd habitat-lab; git checkout tags/challenge-2022;
 pip install -e .
 ```
 
-* replace the habitat folder in habitat-lab repo for the multi-robot setting
+* Replace the habitat folder in habitat-lab repo for the multi-robot setting
 ```
 mv -r habitat your-path/habitat-lab
 ```
@@ -44,5 +44,5 @@ Run `refine.py` to train the refinement model
 ## Collection of Semantic Map Dataset
 
 We follow the [PEANUT](https://github.com/ajzhai/PEANUT/tree/master) to collect the semantic map dataset and use it to train the object probability prediction model and refinement model.
-The corresponding dataset can be downloaded from here.
+The corresponding dataset can be downloaded from [here](https://huggingface.co/datasets/bowen666212/MMNav_Maps).
   
